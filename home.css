@@ -4,6 +4,24 @@ html{
     transition: 1 ease-in;
 }
 
+.all{
+    width: 1345px;
+    height: auto;
+    background-color: #0d0d15;
+    
+}
+
+.vid{
+    margin-top: auto;
+    margin-left: 5%;
+}
+
+.menu{
+    display: inline;
+    margin-left: 950px;
+    margin-right: auto;
+}
+
 .header{
     z-index: 200;
     position: -webkit-sticky;
@@ -22,23 +40,23 @@ nav{
     
 }
 .slideshow{
-    margin-left: 12%;
+    margin-left: 14%;
     width: 100%;
     height: auto;
     overflow: hidden;
 }
 
 .slideshow{
-    position: absolute;
-    top: 180%;
-    left: 50%;
+    position: relative;
+    top: auto;
+    margin-left: 62%;
     transform: translate(-50%,-50%);
 }
 
 .nav{
-    position: absolute;
-    top: 1345px;
-    left: 50%;
+    position: relative;
+    margin-top: -15%;
+    margin-left: 58%;
     transform:translateX(-50%);
     display: flex;
 }
