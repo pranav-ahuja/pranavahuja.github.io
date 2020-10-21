@@ -1,0 +1,79 @@
+.all{
+    width: 1345px;
+    height: auto;
+    background-color:rgb(255, 255, 255);
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+nav{
+    background-color:#0d0d15;
+    width: auto;
+    height: 50px;
+}
+
+.menu{
+    display: inline;
+    margin-left: 950px;
+    margin-right: auto;
+}
+
+.img{
+    border-radius: 5cm;
+}
+.title{
+    font-size:30px ;
+    background-color: white;
+    height: 100px;
+    text-shadow: 2px 2px 5px #0d0d15;
+}
+
+.text{
+    padding: 1%;
+    vertical-align: middle;
+    font-size: 24;
+    background-color: #0d0d15;
+}
+
+.hire{
+    padding-top: 1%;
+    background-color: #0d0d15;
+    width: 1345px;
+    height: 315px;
+}
+
+.Details{
+    margin-bottom: -50%;
+    
+}
+
+.name{
+    font-size: 150%;
+}
+
+.call{
+    cursor: pointer;
+    color: white;
+}
+
+.det1{
+    margin-left: 60px;
+    margin-top: -50px;
+}
+
+.det2{
+    margin-left: 60px;
+    margin-top: -50px;
+}
+
+.det3{
+    margin-left: 60px;
+    margin-top: -50px;
+}
+
+.mypic{
+    float: right;
+    margin-top: 400px;
+}
