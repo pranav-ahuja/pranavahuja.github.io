@@ -21,10 +21,11 @@ nav{
 }
 
 .img{
+    vertical-align: middle;
     box-shadow: 2px 2px 5px #0d0d15;
     height: 700px;
     width: 650px;
-    margin-left: 17%;
+    margin-left: 25%;
 }
 .title{
     font-size:30px ;
