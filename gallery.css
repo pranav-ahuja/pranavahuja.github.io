@@ -1,0 +1,79 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: #0d0d15;
+}
+
+.all{
+    background-color: #0d0d15;
+    width: 1345px;
+    height: auto;
+}
+
+nav{
+    background-color:#0d0d15;
+    width: auto;
+    height: 50px;
+}
+
+.menu{
+    display: inline;
+    margin-left: 950px;
+    margin-right: auto;
+}
+
+.title{
+    background-color: white;
+    width: auto;
+    height: auto;
+    padding: 20px;
+}
+
+.back{
+    background-color: #0d0d15;
+    width: 1345px;
+    height: auto;
+}
+.hire{
+    padding-top: 1%;
+    background-color: #0d0d15;
+    width: 1345px;
+    height: 315px;
+}
+
+.Details{
+    margin-bottom: -50%;
+    margin-left: 170px;
+    
+}
+
+.name{
+    font-size: 150%;
+}
+
+.call{
+    cursor: pointer;
+    color: white;
+}
+
+.det1{
+    margin-left: 60px;
+    margin-top: -50px;
+}
+
+.det2{
+    margin-left: 60px;
+    margin-top: -50px;
+}
+
+.det3{
+    margin-left: 60px;
+    margin-top: -50px;
+}
+
+.mypic{
+    float: right;
+    margin-top: 330px;
+}
